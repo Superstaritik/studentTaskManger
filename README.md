@@ -15,7 +15,7 @@ Using plain HTML/CSS/JS helped me focus on:
 React can make the UI more advanced and efficient, but for this project,
 simplicity and clarity were more important.
 
----
+
 
 ## Project Overview
 
@@ -26,20 +26,20 @@ This project allows students to:
 
 The frontend communicates with a backend API, which stores data in MongoDB.
 
----
 
-## Technologies Used
+
+##  Technologies Used
 
 ### Frontend
-- HTML
-- CSS
+- HTML  
+- CSS  
 - JavaScript (SPA behavior using Fetch API)
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
 - dotenv (.env for environment variables)
 
 ---
@@ -52,18 +52,34 @@ The frontend communicates with a backend API, which stores data in MongoDB.
 - Proper backend folder structure
 - Secure environment variables using `.env`
 
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](Screenshot/add-task.png)
+
+### Clicking on Add Button
+![Click Button](Screenshot/click-on-button.png)
+
+### Code Structure
+![Code](Screenshot/code.png)
+
+### MongoDB Data
+![MongoDB Data](Screenshot/mongo-data.png)
+
+---
+
+## Project Demo Video
+
+A complete working demo of this project is available here:  
+ **Google Drive Video Link** :- https://drive.google.com/file/d/1cHQvFuhcOgF91_GkF8JkHR3-Su7GDkYp/view?usp=sharing
 
 
-##  Note
+## Note
 
 This project can easily be upgraded to React for a better UI and
 state management, but the current implementation was chosen to
 match the project requirements and keep it beginner-friendly.
-
-
-##  Author
-
-Created by a student as part of a learning project to understand
-full-stack development fundamentals.
 
 
